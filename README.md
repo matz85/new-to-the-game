@@ -34,4 +34,4 @@
     <footer>
         <a href="https://www.instagram.com/posh_home_louisville"><img src="poshhomework/img/images.jpg" alt="Instagram Logo" class="social-icon"></a>
         <a href="https://www.facebook.com/poshhomelouisville"><img src="poshhomework/img/imgres.png" alt="Facebook Logo" class="social-icon"></a>
-      </footer>
+    </footer>
